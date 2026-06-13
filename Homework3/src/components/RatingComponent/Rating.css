@@ -1,0 +1,14 @@
+.btn{
+    border-radius: 5px;
+    border: 2px solid yellow;
+    color: blueviolet;
+    background-color: aqua;
+}
+.img{
+    width: 500px;
+    height: 200px;
+}
+.block{
+    display: flex;
+    gap: 10px;
+}
