@@ -1,0 +1,30 @@
+.block {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  border: 3px solid burlywood;
+  width: fit-content;
+  border-radius: 8px;
+  background-color: antiquewhite;
+  gap: 10px;
+}
+.img {
+  width: 400px;
+  height: 300px;
+}
+.btn {
+  cursor: pointer;
+  background-color: rgb(240, 194, 29);
+  border: 2px solid rgb(130, 83, 12);
+  padding: 3px;
+  width: 100px;
+  border-radius: 4px;
+  transition: transform 0.3s ease-in-out;
+}
+.btn:hover {
+  background-color: rgb(233, 152, 3);
+  border: 2px solid rgb(130, 83, 12);
+  transform: scale(1.2);
+}
