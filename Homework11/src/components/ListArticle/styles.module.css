@@ -1,0 +1,12 @@
+.block{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid tomato;
+    padding: 10px;
+    border-radius: 5px;
+}

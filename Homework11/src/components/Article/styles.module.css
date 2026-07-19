@@ -1,0 +1,21 @@
+.block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 2px solid tomato;
+  padding: 10px;
+  border-radius: 5px;
+}
+.btn {
+  margin-top: 10px;
+  width: 100px;
+  height: 30px;
+  background-color: palegreen;
+  border: 2px solid indianred;
+  border-radius: 5px;
+  color: royalblue;
+  cursor: pointer;
+}

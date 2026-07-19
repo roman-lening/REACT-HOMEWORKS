@@ -1,0 +1,9 @@
+.block {
+  border: 2px solid cadetblue;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: x-large;
+  border-radius: 5px;
+}
