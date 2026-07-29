@@ -1,10 +1,10 @@
 import "./App.css";
-import Text from "./components/text";
+import ChangeLanguage from "./components/changeLanguage";
 
 function App() {
   return (
     <div>
-      <Text />
+      <ChangeLanguage />
     </div>
   );
 }
